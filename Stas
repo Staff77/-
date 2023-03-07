@@ -1,0 +1,7 @@
+эхо "# -" >> README.md
+git init
+git добавить README.md
+git commit -m "первая фиксация"
+ветка git -M основной
+источник удаленного добавления git 
+https://github.com/Staff77/-.git git push -u origin основной
